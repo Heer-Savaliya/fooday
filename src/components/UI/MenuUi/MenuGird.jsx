@@ -6,7 +6,6 @@ import { auth, firestore } from '../../../firebaseConfig';
 import { toast, ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-
 const MenuGrid = ({ searchQuery }) => {
   const [menuItems, setMenuItems] = useState([]);
 
