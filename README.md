@@ -39,12 +39,15 @@ Welcome to **Fooday**, a stylish and responsive online food ordering platform wh
    cd fooday
    
 2. ** Install dependencies **
+    ```bash
     npm install
 
 3. **Run the development server **
+    ```bash
     npm start
 
-5. **Open in your browser**
+4. **Open in your browser**
+    ```bash
     http://localhost:3000  or 5173
 
 📁 Folder Structure (Overview)
