@@ -50,8 +50,9 @@ Welcome to **Fooday**, a stylish and responsive online food ordering platform wh
     ```bash
     http://localhost:3000  or 5173
 
-📁 Folder Structure (Overview)
+## 📁 Folder Structure
 
+```bash
 fooday/
 ├── public/
 ├── src/
