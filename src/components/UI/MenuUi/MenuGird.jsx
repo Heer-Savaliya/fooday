@@ -30,7 +30,7 @@ const MenuGrid = ({ searchQuery }) => {
 
   const filteredItems = menuItems.filter(item =>
     item.title.toLowerCase().includes(searchQuery.toLowerCase())
-  );
+  );  
 
   const addToCart = async (item) => {
     const user = auth.currentUser;
