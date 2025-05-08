@@ -27,7 +27,7 @@ Welcome to **Fooday**, a stylish and responsive online food ordering platform wh
 | **React Router** | Navigation between pages         |
 | **Netlify**   | Hosting and deployment               |
 
-> *(If Firebase is used for data or auth, you can add it here too.)*
+> **FireBase** => For data authentication and firestore
 
 ---
 
@@ -35,7 +35,7 @@ Welcome to **Fooday**, a stylish and responsive online food ordering platform wh
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/fooday.git
+   git clone https://github.com/Heer-Savaliya/fooday.git
    cd fooday
    
 2. ** Install dependencies **
@@ -49,18 +49,23 @@ Welcome to **Fooday**, a stylish and responsive online food ordering platform wh
 4. **Open in your browser**
     ```bash
     http://localhost:3000  or 5173
+    
+---
 
 ## 📁 Folder Structure
+    ```bash
+      fooday/
+      ├── public/
+      ├── src/
+      │   ├── assets/
+      │   ├── components/
+      │   ├── pages/
+      │   ├── context/
+      │   ├── App.js
+      │   └── index.js
+      └── package.json
 
-```bash
-fooday/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── pages/
-│   ├── context/
-│   ├── App.js
-│   └── index.js
-└── package.json
+---
 
+## Author
+   Heer Savaliya ❤️
